@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "few100angular"
+    }
+  },
+  "defaultProject": "few100angular",
+  "cli": {
+    "analytics": "c433cd6a-a5e5-4076-a559-9ba8ca822084"
+  }
 }

@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'few100angular';
+
+  doIt() {
+    this.title = this.title.toUpperCase();
+  }
 }
